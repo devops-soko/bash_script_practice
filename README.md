@@ -31,7 +31,8 @@ $chmod 744 ./filename
 ## 3. Basic Grammar
 ### 1) Variable
 #### (a) Environment Variable 
-- What is Environment Variable? Variables referenced by the operating system
+- What is Environment Variable? 
+	Variables referenced by the operating system
 
 - Example
 
@@ -54,7 +55,8 @@ $ export variable_name=variable_value
 ```
 
 #### (b) Local Variable
-- What is Environment Variable? Variables for current terminal
+- What is Environment Variable? 
+	Variables for current terminal
 
 - How to Define Environment Variable?
 ```
@@ -81,7 +83,9 @@ $ echo \$variable_name
 ```
 
 ### 2) Parameter
-- What is Parameter? An entity that stores user's input values
+- What is Parameter? 
+	An entity that stores user's input values
+
 - Example
 input command
 ```
