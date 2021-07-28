@@ -32,6 +32,7 @@ $chmod 744 ./filename
 ### 1) Variable
 #### (a) Environment Variable 
 - What is Environment Variable? 
+
 	Variables referenced by the operating system
 
 - Example
@@ -56,6 +57,7 @@ $ export variable_name=variable_value
 
 #### (b) Local Variable
 - What is Environment Variable? 
+
 	Variables for current terminal
 
 - How to Define Environment Variable?
@@ -84,6 +86,7 @@ $ echo \$variable_name
 
 ### 2) Parameter
 - What is Parameter? 
+
 	An entity that stores user's input values
 
 - Example
@@ -241,6 +244,7 @@ esac
 #### (b) Loop Statement
 - for
 	- What is select?
+
 		the statement to repeat commands by the number of values
 
 	- Appearance
@@ -253,6 +257,7 @@ done
 
 - while
 	- What is select?
+
 		the statement to repeat commands until the conditional statement is true
 
 	- Appearance
@@ -265,6 +270,7 @@ done
 
 - until
 	- What is select?
+
 		the statement to repeat commands until the conditional statement is false
 
 	- Appearance
@@ -277,6 +283,7 @@ done
 
 #### (c) select 
 - What is select?
+
 one of statement to make menu
 
 - Appearance
