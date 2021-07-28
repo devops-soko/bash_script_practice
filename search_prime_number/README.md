@@ -13,6 +13,12 @@ n is a natural number of more than 2 and less than 1000000.
 | 10 | 4 | 
 | 5 | 3 | 
 
+cf 1. 
+the number of prime numbers between 1-10  is 4 because [2,3,5,7] 
+
+cf 2.
+the number of prime numbers between 1-5 is 3 because [2,3,5] 
+
 ## Environment
 OS Version : CentOS 8.3.2011
 
