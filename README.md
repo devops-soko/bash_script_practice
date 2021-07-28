@@ -169,6 +169,7 @@ and reboot or input this command (source ~/.bashrc)
 ```
 expr `mathematical expression`
 ```
+- Example
 ```
 #! /bin/bash
 
@@ -180,6 +181,7 @@ echo $num3
 exit 0
 ```
 cf1. there is space on the left and right of +,-,*,/,%, (, )
+
 cf2. \ should be written in front of (, ), * 
 
 
@@ -287,7 +289,7 @@ done
 #### (c) select 
 - What is select?
 
-one of statement to make menu
+	one of statement to make menu
 
 - Appearance
 ```
@@ -342,7 +344,9 @@ select menu
 
 
 cf 1. break ;;		-> 	get out of loop
+
 cf 2. continue ;;	-> 	Return to the conditional statement of loop
+
 cf 3. exit ;;		-> 	exit the program
 
 ## 4. Debug
@@ -363,7 +367,9 @@ set +x
 
 ## 5. etc.
 read variable		->	get values from user
+
 $( command )		-> 	use the result of command  
+
 set  $( command ) 	-> 	use the result of command as parameters 
 
 
