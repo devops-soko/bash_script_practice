@@ -34,6 +34,7 @@ $chmod 744 ./filename
 - What is Environment Variable? Variables referenced by the operating system
 
 - Example
+
 | variable | Description | variable | Description |
 |:--------|:--------|:--------|:--------|
 | HOME | current user's home directory | PATH | the paths to find exe file | 
