@@ -66,13 +66,16 @@ $ variable_name=variable_value
 ```
 
 cf 1. Linux save variables as string
+
 cf 2. How to  call variable?
 ```
 $ $variable_name
 ```
 
 cf 3. Linux is able to distinguish between capital letters and small letters
+
 cf 4. = has no space left or right
+
 cf 5. How to print variable?
 ```
 $ echo $variable_name
