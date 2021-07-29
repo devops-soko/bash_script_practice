@@ -5,7 +5,8 @@ Print a and i repeatly
 Return a string that the length is n and the pattern is like 'aiaiaiaia.....'.
 
 ## Restriction Conditions
-n is a natural number of more than 1 and less than 10000.
+n is a natural number, 
+1 <= n <= 1000
 
 ## I/O Example
 | n | result |

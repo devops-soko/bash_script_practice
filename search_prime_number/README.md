@@ -5,7 +5,8 @@ search prime numbers from 1 to n
 Return the number of prime numbers from 1 to n
 
 ## Restriction Conditions
-n is a natural number of more than 2 and less than 1000000.
+n is a natural number
+2 <= n <= 1000
 
 ## I/O Example
 | n | result |

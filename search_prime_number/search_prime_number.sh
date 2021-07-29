@@ -3,7 +3,7 @@
 result=0
 i=$1
 
-if [ $i -ge 2 ] && [ $i -le 1000000 ]
+if [ $i -ge 2 ] && [ $i -le 1000 ]
 then
 	while [ $i -ge 2 ]
 	do
