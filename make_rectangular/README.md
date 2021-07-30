@@ -7,7 +7,9 @@ Print a rectangular with width n and height m using '$'
 
 ## Restriction Conditions
 n and m are natural numbers, 
+
 1 <= n <= 100
+
 1 <= m <= 100
 
 ## I/O Example
