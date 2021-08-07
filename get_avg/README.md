@@ -8,7 +8,7 @@ return the average of input numbers
 maximum number of integers that can be input is 10
 
 each integer n is 
-0 <= n <= 1000
+0 <= n <= 1000 
 
 ## I/O Example
 | input | result |
