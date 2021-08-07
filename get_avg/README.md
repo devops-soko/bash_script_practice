@@ -2,10 +2,10 @@
 get average
 
 ## Description
-Return a string that the length is n and the pattern is like 'aiaiaiaia.....'.
+return the average of input numbers
 
 ## Restriction Conditions
-return the average of input numbers
+maximum number of integers that can be input is 10
 
 each integer n is 
 0 <= n <= 1000
