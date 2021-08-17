@@ -1,23 +1,17 @@
 ## Title
-create strange sentence
-
+check string's compositions and length
 
 ## Description
-Capitalize even index letters of each word in string
-
-## Restriction Conditions
-Words are splited by space(' ')
-
-even/odd index is determined by words not by whole sentence
-
-The first letter's index is 0 and it is treated as an even index letter 
-
+check if string consists of numbers and the length if string is 4 or 6
 
 ## I/O Example
 | num | return |
 |:--------|:--------|
-| try hello world | TrY HeLlO WoRlD | 
-| i am bash | I Am BaSh | 
+| 1234 | true | 
+| a234 | false |
+| 123456 | true | 
+| a12345 | false |
+| 12345 | false |  
 
 ## Environment
 OS Version : CentOS 8.3.2011
